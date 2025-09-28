@@ -1,0 +1,16 @@
+# Ignoring virtual environmen
+.venv/
+.venv-firedrake/
+venv/
+env/
+
+# Temporary File Python 
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore output folders
+output*/
